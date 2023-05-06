@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="36"
+   height="72"
+   viewBox="0 0 36 72"
+   version="1.1"
+   id="svg9840"
+   sodipodi:docname="falling-triangles.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9844" />
+  <sodipodi:namedview
+     id="namedview9842"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.213765"
+     inkscape:cx="1.9581419"
+     inkscape:cy="44.547727"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9840" />
+  <path
+     d="m 3.9659866,11.45712 2.1972247,0.54597 -1.2650672,5.11348 c -0.2929601,1.198472 0.2929336,1.598096 1.3050162,0.892329 l 6.8978707,-4.780703 c 0.83893,-0.585921 0.719083,-1.265054 -0.279644,-1.518066 l -2.197198,-0.54597 1.265054,-5.1134666 c 0.29296,-1.198472 -0.29296,-1.597936 -1.305003,-0.892169 L 3.6863559,9.9391894 C 2.847426,10.525108 2.9672595,11.204109 3.9659866,11.45712 Z"
+     fill="#292d32"
+     id="path4"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.33163;opacity:0.05773672" />
+  <path
+     d="m 21.615583,47.358369 2.197224,0.54597 -1.265067,5.11348 c -0.29296,1.198472 0.292934,1.598096 1.305016,0.892329 l 6.897871,-4.780703 c 0.83893,-0.585921 0.719083,-1.265054 -0.279644,-1.518066 l -2.197198,-0.54597 1.265054,-5.113466 c 0.29296,-1.198472 -0.29296,-1.597936 -1.305003,-0.892169 l -6.897884,4.780664 c -0.83893,0.585919 -0.719096,1.26492 0.279631,1.517931 z"
+     fill="#292d32"
+     id="path4-7"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.33163;opacity:0.05773672" />
+</svg>

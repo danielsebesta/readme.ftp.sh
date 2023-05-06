@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="flash-circle-1-svgrepo-com.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.65"
+     inkscape:cx="635.38462"
+     inkscape:cy="509.23077"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path2"
+     style="opacity:1;fill:#0d6efd;fill-opacity:1;stroke-width:33.3333"
+     d="M 400 66.666016 C 215.905 66.666016 66.666016 215.905 66.666016 400 C 66.666016 584.09333 215.905 733.33398 400 733.33398 C 584.09333 733.33398 733.33398 584.09333 733.33398 400 C 733.33398 215.905 584.09333 66.666016 400 66.666016 z M 476.07227 230.60156 C 487.57014 230.37571 492.57357 241.50391 487.64648 261.66016 L 455.98047 389.66016 L 510.98047 403.32617 C 535.98047 409.65951 538.98047 426.65951 517.98047 441.32617 L 345.3125 560.99609 C 319.97817 578.66276 305.31315 568.66016 312.64648 538.66016 L 344.3125 410.66016 L 289.3125 396.99414 C 264.3125 390.66081 261.3125 373.66276 282.3125 358.99609 L 454.98047 239.32812 C 463.29297 233.53125 470.45702 230.71186 476.07227 230.60156 z "
+     transform="scale(0.03)" />
+</svg>
