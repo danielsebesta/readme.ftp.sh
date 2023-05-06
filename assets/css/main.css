@@ -76,6 +76,11 @@ p {
     align-items: center;
 }
 
+.btn-primary {
+    background-color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
 .btn i {
     margin-left: 7px;
 }
