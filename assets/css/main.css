@@ -1,0 +1,81 @@
+:root {
+    --background: #22222b;
+    --layer1: #2e2e38;
+    --layer2: #3a3a44;
+    --layer3: #464652;
+    --header: #f0f0f7;
+    --text: #c4c6cf;
+    --primary: #0d6efd;
+    --br-full: 999px;
+    --br-0: 0;
+    --br-normal: 7px;
+}
+
+body {
+    background-color: var(--background);
+    background-image: url('../content/falling-triangles.svg');
+    background-size: 150px;
+    font-family: 'Catamaran', sans-serif;
+    color: #ffffff;
+    background-position: 25% 50%;
+    animation: name 120s ease infinite;
+}
+
+@keyframes name {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.h-50vh {
+    height: 50vh !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 900 !important;
+    color: var(--header);
+}
+
+p {
+    font-weight: 500;
+    color: var(--text)
+}
+
+.navbar {
+    background-color: var(--layer1);
+    border: 1px solid var(--layer2);
+    color: var(--text);
+}
+
+.navbar-toggler {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: var(--layer1);
+    border-radius: var(--br-normal);
+    border: 1px solid var(--layer2);
+    color: var(--text);
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn i {
+    margin-left: 7px;
+}
